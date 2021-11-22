@@ -18,10 +18,10 @@ Kombi Coffe é um repositorio de uma pagina envolvendo as melhores praticas de H
 - [x] Fazer o readme
 - [x] Criar o link entre as paginas
 - [x] Fazer a pagina index (home)
-- [ ] Fazer a Pagina Local
-- [ ] Fazer a Pagina Cardapio
-- [ ] Fazer a pagina Eventos
-- [ ] Fazer a Pagina Contato
+- [x] Fazer a Pagina Local
+- [x] Fazer a Pagina Cardapio
+- [x] Fazer a pagina Eventos
+- [x] Fazer a Pagina Contato
 
 # :pushpin: Tecnologias Ultilizadas
 
