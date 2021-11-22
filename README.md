@@ -4,8 +4,8 @@
 	🚧  Select 🚀 Em construção...  🚧
 </h4>
 
-<img src="https://user-images.githubusercontent.com/64383080/142794183-90e35cb9-5166-457f-ab34-27dac6ea34d0.png"/>
-<img src="https://user-images.githubusercontent.com/64383080/142794283-99b0cc3e-fede-4c58-9d9a-706b8af39221.png"/>
+<img align="center" src="https://user-images.githubusercontent.com/64383080/142794183-90e35cb9-5166-457f-ab34-27dac6ea34d0.png"/>
+<img align="center" src="https://user-images.githubusercontent.com/64383080/142794283-99b0cc3e-fede-4c58-9d9a-706b8af39221.png"/>
 
 
   #  :rocket: Sobre o Projeto
